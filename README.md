@@ -1,0 +1,2 @@
+# mangahost
+sim, repositorio
